@@ -11,7 +11,6 @@ export const Container = styled.View`
   padding: 19px 23px;
   padding-bottom: ${RFValue(42)}px;
 
-  height: 205px;
   margin-right: 16px;
 `;
 
